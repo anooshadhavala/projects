@@ -1,24 +1,14 @@
-# Power BI Project: Retail Sales Analysis
+## Employee Insights Dashboard: Power BI Analysis
 
-## Introduction
+This Power BI project analyzes company employee data and demographics to provide valuable insights into the workforce. The project includes various visualizations that help in understanding employee distribution, demographic trends, and other relevant metrics.
 
-This Power BI project analyzes retail sales data to provide insights into sales performance, customer demographics, and product trends. The goal is to help stakeholders make data-driven decisions to improve business strategies.
+### Features
+- **Employee Data Analysis**: Gain insights into employee demographics, including age, gender, and department distribution.
+- **Interactive Dashboards**: Utilize Power BI's interactive features to explore data in detail.
+- **Trend Analysis**: Identify trends in employee demographics and other key metrics.
 
-## Features
+### Installation
 
-- Interactive dashboards
-- Sales performance analysis
-- Customer demographics visualization
-- Product trend insights
-
-## Datasets Used
-
-- **Sales Data**: Transactional sales data.
-- **Customer Data**: Demographic information of customers.
-- **Product Data**: Product details and attributes.
-
-## Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/retail-sales-analysis.git
+**Clone the repository**
+```bash
+git clone https://github.com/yourusername/organization-analysis.git
